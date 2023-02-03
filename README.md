@@ -1,2 +1,2 @@
 # Netflixdata_analysis
-Analysis of Netflix Dataset using pandas.
+Analysis of Netflix Dataset using pandas and power bi.
